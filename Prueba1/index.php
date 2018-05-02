@@ -7,8 +7,8 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title> Bienvenidos al curso de Arquitetura Web</title>
-        <title> Grupo de Eva Garcia y Patricio </title>
+        <title> Bienvenidos al curso de Arquitetura de Desarrollo Web</title>
+        <title> Grupo de Eva Garcia y Patricio Villar</title>
     </head>
     <body>
         <?php
